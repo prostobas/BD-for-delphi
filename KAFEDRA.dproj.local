@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.660,E:\Linter\EMPLOYEE\linMain.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\linMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\gruppstudent.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\gruppstudent.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Main\linMain.pas=E:\Linter\EMPLOYEE\linMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\KAFEDRA.dproj=E:\Linter\EMPLOYEE\lab1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\fakultet.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,E:\Linter\EMPLOYEE\fmDM.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\fmDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\DM\fmDM.dfm=E:\Linter\EMPLOYEE\fmDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=E:\Linter\EMPLOYEE\Vcl.RecError.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\lab1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\DM\fmDM.pas=E:\Linter\EMPLOYEE\fmDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit2.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\fmDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\linMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\gruppstudent.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\project.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\gruppstudent.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\rukovod.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\linMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\project.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,E:\Linter\EMPLOYEE\linMain.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\linMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,E:\Linter\EMPLOYEE\fmDM.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\fmDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,E:\Linter\EMPLOYEE\lab1.dproj=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\lab1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,C:\Users\Go Game\Documents\Embarcadero\Studio\Projects\Unit2.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Lab1\fmDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\gruppstudent.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\fakultet.pas=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Tables\rukovod.dfm=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Main\linMain.dfm=E:\Linter\EMPLOYEE\linMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Vcl.RecError.pas=E:\Linter\EMPLOYEE\Vcl.RecError.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Vcl.RecError.dfm=E:\Linter\EMPLOYEE\Vcl.RecError.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=H:\ПГУ\5 КУРС 1 СЕМЕСТР\АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ СН\Курсовая\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>
